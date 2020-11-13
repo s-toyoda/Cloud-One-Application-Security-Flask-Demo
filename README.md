@@ -79,8 +79,3 @@ If malicious files are not detected, use the above output to ensure that:
 5. And details of the malware:
 
 ![alt text](images/report.png)
-
-# Contact
-
-* Blog: oznetnerd.com
-* Email: will@oznetnerd.com
